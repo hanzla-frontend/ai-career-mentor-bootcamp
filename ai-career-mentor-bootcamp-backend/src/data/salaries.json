@@ -1,0 +1,22 @@
+{
+  "salaries": {
+    "Software Engineer": {
+      "US": { "entry": 80000, "mid": 130000, "senior": 180000 },
+      "UK": { "entry": 50000, "mid": 80000, "senior": 120000 },
+      "Canada": { "entry": 70000, "mid": 110000, "senior": 150000 },
+      "India": { "entry": 1000000, "mid": 2000000, "senior": 3500000 }
+    },
+    "Data Scientist": {
+      "US": { "entry": 90000, "mid": 140000, "senior": 190000 },
+      "UK": { "entry": 55000, "mid": 85000, "senior": 130000 },
+      "Canada": { "entry": 75000, "mid": 120000, "senior": 160000 },
+      "India": { "entry": 1200000, "mid": 2500000, "senior": 4000000 }
+    },
+    "Frontend Developer": {
+      "US": { "entry": 70000, "mid": 120000, "senior": 160000 },
+      "UK": { "entry": 45000, "mid": 75000, "senior": 110000 },
+      "Canada": { "entry": 65000, "mid": 100000, "senior": 140000 },
+      "India": { "entry": 800000, "mid": 1800000, "senior": 3000000 }
+    }
+  }
+}
